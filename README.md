@@ -1,5 +1,8 @@
 # Reliability Assessment Framework (RAF) for AI Systems
 
+## Note
+This is under construction. Full code and statistics will be uploaded. The thesis version is also not yet in its finalized state.
+
 ## Overview
 
 This repository contains the work conducted as part of a Master’s thesis in Human-Centered AI at the University of Gothenburg.
